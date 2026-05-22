@@ -27,27 +27,31 @@ El proyecto busca poner en práctica conocimientos relacionados con:<br>
 
 - Funcionalidades principales
 
-La plataforma permitirá:
+La plataforma permitirá:<br>
 
-  Gestión de usuarios
-    Registro e inicio de sesión
-    Autenticación mediante JWT
-    Gestión de perfiles
-  Gestión de tableros
-    Crear tableros de trabajo
-    Editar y eliminar tableros
-    Compartir tableros con otros usuarios
-  Gestión de listas y tareas
-    Crear listas dentro de un tablero
-    Crear tareas dentro de cada lista
-    Cambiar el estado de las tareas
-    Editar descripciones y prioridades
-    Asignar fechas límite
-    Organización visual
-    Visualización estilo Kanban
-  Estados:
-    To Do
-    In Progress
-    Done
+Gestión de usuarios<br>
+  Registro e inicio de sesión<br>
+  Autenticación mediante JWT<br>
+  Gestión de perfiles<br>
+
+Gestión de tableros<br>
+  Crear tableros de trabajo<br>
+  Editar y eliminar tableros<br>
+  Compartir tableros con otros usuarios<br>
+
+Gestión de listas y tareas<br>
+  Crear listas dentro de un tablero<br>
+  Crear tareas dentro de cada lista<br>
+  Cambiar el estado de las tareas<br>
+  Editar descripciones y prioridades<br>
+  Asignar fechas límite<br>
+
+Organización visual<br>
+  Visualización estilo Kanban<br>
+  
+Estados:<br>
+  To Do<br>
+  In Progress<br>
+  Done<br>
     
 ------------------------------------------------------------------------------------------------------------------------------------------
