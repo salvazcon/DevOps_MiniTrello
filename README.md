@@ -14,14 +14,14 @@ La aplicación estará compuesta por varios servicios desacoplados que se comuni
 
 El proyecto busca poner en práctica conocimientos relacionados con:<br>
 
-  Desarrollo backend y frontend<br>
-  Contenerización de aplicaciones<br>
-  Orquestación de servicios<br>
-  Gestión de bases de datos<br>
-  Integración y despliegue continuo (CI/CD)<br>
-  Infraestructura reproducible<br>
-  Observabilidad y monitoreo<br>
-  Arquitectura basada en microservicios<br>
+&nbsp;Desarrollo backend y frontend<br>
+&nbsp;Contenerización de aplicaciones<br>
+&nbsp;Orquestación de servicios<br>
+&nbsp;&nbsp;Gestión de bases de datos<br>
+&nbsp;&nbsp;Integración y despliegue continuo (CI/CD)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Infraestructura reproducible<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Observabilidad y monitoreo<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Arquitectura basada en microservicios<br>
   
 ------------------------------------------------------------------------------------------------------------------------------------------
 
