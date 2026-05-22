@@ -1,6 +1,6 @@
 # DevOps_MiniTrello
 
-- Descripción general:
+**- Descripción general:**
 
 El proyecto consiste en desarrollar una plataforma web de gestión de tareas inspirada en herramientas como Trello, donde los usuarios podrán crear, organizar y administrar tareas mediante tableros y listas.
 
@@ -10,7 +10,7 @@ La aplicación estará compuesta por varios servicios desacoplados que se comuni
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-- Objetivos del proyecto<br>
+**- Objetivos del proyecto**
 
 &nbsp;&nbsp;&nbsp;&nbsp;Desarrollo backend y frontend<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Contenerización de aplicaciones<br>
@@ -23,26 +23,26 @@ La aplicación estará compuesta por varios servicios desacoplados que se comuni
   
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-- Funcionalidades principales
+**- Funcionalidades principales**
 
-&nbsp;&nbsp;Gestión de usuarios<br>
+&nbsp;&nbsp;Gestión de usuarios:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Registro e inicio de sesión<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Autenticación mediante JWT<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Gestión de perfiles<br>
 
-&nbsp;&nbsp;Gestión de tableros<br>
+&nbsp;&nbsp;Gestión de tableros:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Crear tableros de trabajo<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Editar y eliminar tableros<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Compartir tableros con otros usuarios<br>
 
-&nbsp;&nbsp;Gestión de listas y tareas<br>
+&nbsp;&nbsp;Gestión de listas y tareas:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Crear listas dentro de un tablero<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Crear tareas dentro de cada lista<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Cambiar el estado de las tareas<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Editar descripciones y prioridades<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Asignar fechas límite<br>
 
-&nbsp;&nbsp;Organización visual<br>
+&nbsp;&nbsp;Organización visual:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Visualización estilo Kanban<br>
 
 &nbsp;&nbsp;Estados:<br>
