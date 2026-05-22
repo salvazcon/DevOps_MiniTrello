@@ -12,46 +12,42 @@ La aplicación estará compuesta por varios servicios desacoplados que se comuni
 
 - Objetivos del proyecto<br>
 
-El proyecto busca poner en práctica conocimientos relacionados con:<br>
-
 &nbsp;Desarrollo backend y frontend<br>
 &nbsp;Contenerización de aplicaciones<br>
 &nbsp;Orquestación de servicios<br>
-&nbsp;&nbsp;Gestión de bases de datos<br>
-&nbsp;&nbsp;Integración y despliegue continuo (CI/CD)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Infraestructura reproducible<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Observabilidad y monitoreo<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Arquitectura basada en microservicios<br>
+&nbsp;Gestión de bases de datos<br>
+&nbsp;Integración y despliegue continuo (CI/CD)<br>
+&nbsp;Infraestructura reproducible<br>
+&nbsp;Observabilidad y monitoreo<br>
+&nbsp;Arquitectura basada en microservicios<br>
   
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 - Funcionalidades principales
 
-La plataforma permitirá:<br>
+&nbsp;Gestión de usuarios<br>
+&nbsp;&nbsp;Registro e inicio de sesión<br>
+&nbsp;&nbsp;Autenticación mediante JWT<br>
+&nbsp;&nbsp;Gestión de perfiles<br>
 
-Gestión de usuarios<br>
-  Registro e inicio de sesión<br>
-  Autenticación mediante JWT<br>
-  Gestión de perfiles<br>
+&nbsp;Gestión de tableros<br>
+&nbsp;&nbsp;Crear tableros de trabajo<br>
+&nbsp;&nbsp;Editar y eliminar tableros<br>
+&nbsp;&nbsp;Compartir tableros con otros usuarios<br>
 
-Gestión de tableros<br>
-  Crear tableros de trabajo<br>
-  Editar y eliminar tableros<br>
-  Compartir tableros con otros usuarios<br>
+&nbsp;Gestión de listas y tareas<br>
+&nbsp;&nbsp;Crear listas dentro de un tablero<br>
+&nbsp;&nbsp;Crear tareas dentro de cada lista<br>
+&nbsp;&nbsp;Cambiar el estado de las tareas<br>
+&nbsp;&nbsp;Editar descripciones y prioridades<br>
+&nbsp;&nbsp;Asignar fechas límite<br>
 
-Gestión de listas y tareas<br>
-  Crear listas dentro de un tablero<br>
-  Crear tareas dentro de cada lista<br>
-  Cambiar el estado de las tareas<br>
-  Editar descripciones y prioridades<br>
-  Asignar fechas límite<br>
+&nbsp;Organización visual<br>
+&nbsp;&nbsp;Visualización estilo Kanban<br>
 
-Organización visual<br>
-  Visualización estilo Kanban<br>
-  
-Estados:<br>
-  To Do<br>
-  In Progress<br>
-  Done<br>
+&nbsp;Estados:<br>
+&nbsp;&nbsp;To Do<br>
+&nbsp;&nbsp;In Progress<br>
+&nbsp;&nbsp;Done<br>
     
 ------------------------------------------------------------------------------------------------------------------------------------------
