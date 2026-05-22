@@ -23,31 +23,31 @@ La aplicación estará compuesta por varios servicios desacoplados que se comuni
   
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-**- Funcionalidades principales**
+** Funcionalidades principales**
 
-&nbsp;&nbsp;Gestión de usuarios:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Registro e inicio de sesión<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Autenticación mediante JWT<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Gestión de perfiles<br>
+- Gestión de usuarios
+  - Registro e inicio de sesión
+  - Autenticación mediante JWT
+  - Gestión de perfiles
 
-&nbsp;&nbsp;Gestión de tableros:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Crear tableros de trabajo<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Editar y eliminar tableros<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Compartir tableros con otros usuarios<br>
+- Gestión de tableros
+  - Crear tableros de trabajo
+  - Editar y eliminar tableros
+  - Compartir tableros con otros usuarios
 
-&nbsp;&nbsp;Gestión de listas y tareas:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Crear listas dentro de un tablero<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Crear tareas dentro de cada lista<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Cambiar el estado de las tareas<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Editar descripciones y prioridades<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Asignar fechas límite<br>
+- Gestión de listas y tareas
+  - Crear listas dentro de un tablero
+  - Crear tareas dentro de cada lista
+  - Cambiar el estado de las tareas
+  - Editar descripciones y prioridades
+  - Asignar fechas límite
 
-&nbsp;&nbsp;Organización visual:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Visualización estilo Kanban<br>
+- Organización visual
+  - Visualización estilo Kanban
 
-&nbsp;&nbsp;Estados:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;To Do<br>
-&nbsp;&nbsp;&nbsp;&nbsp;In Progress<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Done<br>
+- Estados
+  - To Do
+  - In Progress
+  - Done
     
 ------------------------------------------------------------------------------------------------------------------------------------------
