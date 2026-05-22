@@ -10,18 +10,18 @@ La aplicación estará compuesta por varios servicios desacoplados que se comuni
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-- Objetivos del proyecto
+- Objetivos del proyecto<br>
 
-El proyecto busca poner en práctica conocimientos relacionados con:
+El proyecto busca poner en práctica conocimientos relacionados con:<br>
 
-  Desarrollo backend y frontend
-  Contenerización de aplicaciones
-  Orquestación de servicios
-  Gestión de bases de datos
-  Integración y despliegue continuo (CI/CD)
-  Infraestructura reproducible
-  Observabilidad y monitoreo
-  Arquitectura basada en microservicios
+  Desarrollo backend y frontend<br>
+  Contenerización de aplicaciones<br>
+  Orquestación de servicios<br>
+  Gestión de bases de datos<br>
+  Integración y despliegue continuo (CI/CD)<br>
+  Infraestructura reproducible<br>
+  Observabilidad y monitoreo<br>
+  Arquitectura basada en microservicios<br>
   
 ------------------------------------------------------------------------------------------------------------------------------------------
 
