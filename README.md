@@ -12,42 +12,42 @@ La aplicación estará compuesta por varios servicios desacoplados que se comuni
 
 - Objetivos del proyecto<br>
 
-&nbsp;Desarrollo backend y frontend<br>
-&nbsp;Contenerización de aplicaciones<br>
-&nbsp;Orquestación de servicios<br>
-&nbsp;Gestión de bases de datos<br>
-&nbsp;Integración y despliegue continuo (CI/CD)<br>
-&nbsp;Infraestructura reproducible<br>
-&nbsp;Observabilidad y monitoreo<br>
-&nbsp;Arquitectura basada en microservicios<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Desarrollo backend y frontend<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Contenerización de aplicaciones<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Orquestación de servicios<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Gestión de bases de datos<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Integración y despliegue continuo (CI/CD)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Infraestructura reproducible<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Observabilidad y monitoreo<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Arquitectura basada en microservicios<br>
   
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 - Funcionalidades principales
 
-&nbsp;Gestión de usuarios<br>
-&nbsp;&nbsp;Registro e inicio de sesión<br>
-&nbsp;&nbsp;Autenticación mediante JWT<br>
-&nbsp;&nbsp;Gestión de perfiles<br>
+&nbsp;&nbsp;Gestión de usuarios<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Registro e inicio de sesión<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Autenticación mediante JWT<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Gestión de perfiles<br>
 
-&nbsp;Gestión de tableros<br>
-&nbsp;&nbsp;Crear tableros de trabajo<br>
-&nbsp;&nbsp;Editar y eliminar tableros<br>
-&nbsp;&nbsp;Compartir tableros con otros usuarios<br>
+&nbsp;&nbsp;Gestión de tableros<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Crear tableros de trabajo<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Editar y eliminar tableros<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Compartir tableros con otros usuarios<br>
 
-&nbsp;Gestión de listas y tareas<br>
-&nbsp;&nbsp;Crear listas dentro de un tablero<br>
-&nbsp;&nbsp;Crear tareas dentro de cada lista<br>
-&nbsp;&nbsp;Cambiar el estado de las tareas<br>
-&nbsp;&nbsp;Editar descripciones y prioridades<br>
-&nbsp;&nbsp;Asignar fechas límite<br>
+&nbsp;&nbsp;Gestión de listas y tareas<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Crear listas dentro de un tablero<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Crear tareas dentro de cada lista<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Cambiar el estado de las tareas<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Editar descripciones y prioridades<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Asignar fechas límite<br>
 
-&nbsp;Organización visual<br>
-&nbsp;&nbsp;Visualización estilo Kanban<br>
+&nbsp;&nbsp;Organización visual<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Visualización estilo Kanban<br>
 
-&nbsp;Estados:<br>
-&nbsp;&nbsp;To Do<br>
-&nbsp;&nbsp;In Progress<br>
-&nbsp;&nbsp;Done<br>
+&nbsp;&nbsp;Estados:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;To Do<br>
+&nbsp;&nbsp;&nbsp;&nbsp;In Progress<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Done<br>
     
 ------------------------------------------------------------------------------------------------------------------------------------------
