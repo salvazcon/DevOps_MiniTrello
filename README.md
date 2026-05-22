@@ -1,6 +1,6 @@
 # DevOps_MiniTrello
 
-**- Descripción general:**
+**Descripción general:**
 
 El proyecto consiste en desarrollar una plataforma web de gestión de tareas inspirada en herramientas como Trello, donde los usuarios podrán crear, organizar y administrar tareas mediante tableros y listas.
 
@@ -10,16 +10,16 @@ La aplicación estará compuesta por varios servicios desacoplados que se comuni
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-**- Objetivos del proyecto**
+**Objetivos del proyecto**
 
-&nbsp;&nbsp;&nbsp;&nbsp;Desarrollo backend y frontend<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Contenerización de aplicaciones<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Orquestación de servicios<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Gestión de bases de datos<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Integración y despliegue continuo (CI/CD)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Infraestructura reproducible<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Observabilidad y monitoreo<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Arquitectura basada en microservicios<br>
+- Desarrollo backend y frontend
+- Contenerización de aplicaciones
+- Orquestación de servicios
+- Gestión de bases de datos
+- Integración y despliegue continuo (CI/CD)
+- Infraestructura reproducible
+- Observabilidad y monitoreo
+- Arquitectura basada en microservicios
   
 ------------------------------------------------------------------------------------------------------------------------------------------
 
